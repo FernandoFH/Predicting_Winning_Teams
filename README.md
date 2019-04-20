@@ -24,3 +24,8 @@ Install jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html).
 
 Credits for this code go to [RUdrakshTuwani](https://github.com/RudrakshTuwani/Football-Data-Analysis-and-Prediction/blob/master/Prediction/Scraping%20and%20Cleaning.ipynb). I've merely created a wrapper to get people started
 
+## Resources
+
+  - [Here](https://arxiv.org/ftp/arxiv/papers/1511/1511.05837.pdf).
+  - [Here](https://doctorspin.me/future/tech-trends/machine-learning/).
+  - [Here](https://www.credera.com/blog/business-intelligence/using-machine-learning-predict-nfl-games/).
